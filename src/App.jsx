@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
-import Header from "./Header";
-import Images from "./Images";
-import Body from "./Body";
-import Cart from "./Cart";
+import Header from "./header";
+import Images from "./images";
+import Body from "./body";
+import Cart from "./cart";
 import thumbs1 from "./assets/image-product-1-thumbnail.jpg";
 
 function App() {
